@@ -2,5 +2,5 @@
 template: BlogIndex
 title: Designs
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/a9039460-c9f8-4b23-b29b-9400501675c6/'
+featuredImage: 'https://ucarecdn.com/f811d091-f0ff-4f64-ba68-1e28f666af11/'
 ---
