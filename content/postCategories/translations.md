@@ -2,5 +2,5 @@
 template: BlogIndex
 title: Translations
 subtitle: ''
-featuredImage: 'https://ucarecdn.com/0741895a-2d12-4578-9c7b-b334c2fe9cc2/'
+featuredImage: 'https://ucarecdn.com/a9039460-c9f8-4b23-b29b-9400501675c6/'
 ---
