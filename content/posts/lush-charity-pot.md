@@ -2,16 +2,16 @@
 template: SinglePost
 title: Balsam do ciała Lush Charity Pot
 status: Published
-date: '2022-01-01'
+date: '2022-01-02'
 featuredImage: 'https://ucarecdn.com/14a2e871-311b-4106-a16d-c3f4405d2465/'
 excerpt: >-
   Szerz dobro dzięki lekkiemu, aksamitnemu w dotyku balsamowi do ciała Charity Pot, o delikatnym kwiatowym zapachu.
   Lush przekazuje 100% ceny zakupu małym organizacjom społecznym działającym oddolnie.
 categories:
-    - category: Products
+    - category: Translations
 meta:
-  description: test meta description
-  title: test meta title
+  description: balsam do ciała, Charity Pot, Lush, Kosmetyki naturalne, formuła self-preserving, kosmetyki samokonserwujące
+  title: Balsam do ciała Lush Charity Pot
 ---
 ![Bogaty i kojący, oparty na formule self-preserving, Balsam do ciała Lush Charity Pot](https://ucarecdn.com/14a2e871-311b-4106-a16d-c3f4405d2465/ "Balsam do ciała Lush Charity Pot")
 

@@ -2,19 +2,19 @@
 template: SinglePost
 title: Czym jest formuła Self-Preserving?
 status: Featured / Published
-date: '2022-01-02'
+date: '2022-01-03'
 featuredImage: 'https://ucarecdn.com/bce68044-0db5-4fd8-98e7-9dc23ca9a355/'
 excerpt: >-
   Formuła self-preserving to innowacja w świecie kosmetyków, mająca na celu zastąpinie syntetycznych konserwantów składnikami naturalnymi,
   przy jednoczesnym zachowaniu odpowiednich terminów przydatności do użycia.
   To produkty samokonserwujące.
 categories:
-  - category: Stories
+  - category: Translations
 meta:
   canonicalLink: ''
-  description: test meta description
+  description: Lush, Kosmetyki naturalne, formuła self-preserving, kosmetyki samokonserwujące, innowacja
   noindex: false
-  title: test meta title
+  title: Czym jest formuła Self-Preserving?
 ---
 ### To więcej, niż Kosmetyki wolne od syntetycznych konserwantów.
 

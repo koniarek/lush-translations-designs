@@ -90,7 +90,7 @@ export class Navigation extends Component {
                 aria-label="Navigation"
                 role="button"
               >
-                Translations
+                Work Samples
                 <div className="Nav--GroupLinks">
                   <NavLink to="/" className="Nav--GroupLink">
                     All
@@ -107,7 +107,6 @@ export class Navigation extends Component {
                 </div>
               </span>
             </div>
-            <NavLink to="/designs/">Designs</NavLink>
           </div>
           <button
             className="Button-blank Nav--MenuButton"
